@@ -21,7 +21,7 @@ In this presentation, we demonstrate the application of AI tools to analyze and 
 
 The goal is to explore how AI can be used to transcribe audio, detect objects in images, classify documents, and analyze sentiment in these materials. Additionally, we’ll focus on open-source tools that facilitate these tasks.
 
-## Topics Covered
+## Technologies
 
 1. **Speech-to-Text Transcription**
    - Tools for converting spoken language in videos to text, such as **Whisper** (OpenAI) and **YouTube API** for automatic transcription.
@@ -52,7 +52,7 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
    - Building task-specific models for document analysis and their benefits and challenges.
      - [Scikit-Learn - Machine Learning Library](https://scikit-learn.org/stable/)
 
-## Key Resources
+## Code Samples
 
 - [GitHub Repository for Presentation Code and Artifacts](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research)  
   All the code and resources used in the presentation are available here, including notebooks for transcription, OCR, object detection, and sentiment analysis.
