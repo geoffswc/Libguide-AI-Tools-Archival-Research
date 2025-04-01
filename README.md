@@ -1,6 +1,12 @@
 # AI Tools for Document Analysis and Discovery
+
+**Conference**: Billion Lives Symposium, UCSF, April 2025
+
 **Presenter:** Geoffrey Boushey  
+
 **Department:** Data Science and Open Scholarship, UCSF Library
+
+**Title**: AI Tools for Document Analysis and Discovery
 
 This repository contains materials for the presentation on the use of AI tools in document analysis and discovery. The content showcases how AI and ML tools can be applied to analyze various media files, such as videos and images, particularly in the context of tobacco marketing and health outreach campaigns.
 
