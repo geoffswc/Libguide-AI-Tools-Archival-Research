@@ -85,7 +85,7 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
 ## Additional Resources
 
 - **UCSF Library Data Science and Open Scholarship**  
-  [Consulting, Workshops, Newsletter, Events](https://library.ucsf.edu)
+  [Consulting, Workshops, Newsletter, Events](https://library.ucsf.edu/data-science)
 
 ---
 
