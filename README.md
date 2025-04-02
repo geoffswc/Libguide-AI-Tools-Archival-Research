@@ -12,7 +12,7 @@ This repository contains materials for the presentation on the use of AI tools i
 
 ## Overview
 
-In this presentation, we demonstrate the application of AI tools to analyze and extract insights from **three videos** and **one image**. These media files include:
+In this presentation, we demonstrate the application of AI tools to analyze and extract insights from **three videos** and **one image** (links below). These media files include:
 
 - A vaping company’s cartoon ad
 - A youth anti-smoking campaign produced by a tobacco company
@@ -20,6 +20,13 @@ In this presentation, we demonstrate the application of AI tools to analyze and 
 - A handwritten letter to a tobacco company
 
 The goal is to explore how AI can be used to transcribe audio, detect objects in images, classify documents, and analyze sentiment in these materials. Additionally, we’ll focus on open-source tools that facilitate these tasks.
+
+## Video & Image Links
+
+- [VoltMan - Episode 1; Smokeless Image Electronic Cigarettes (Video)](https://archive.org/details/tobacco_yqwg0225)
+- [Think. Don’t Smoke - Philip Morris Ad (Video)](https://archive.org/details/tobacco_wbr62a00)
+- [CDC: Tips from Former Smokers - Fred W. (Video)](https://www.youtube.com/watch?v=CuPk1cLrq_s)
+- [In My Own Handwriting (Image)](https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=ytxk0091)
 
 ## Technologies
 
@@ -74,13 +81,6 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
 
 - [VADER Sentiment Analysis Notebook](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/Vader_Sentiment.ipynb)  
   Sentiment analysis using the VADER tool for social media and text data.
-
-## Video & Image Links
-
-- [VoltMan - Episode 1; Smokeless Image Electronic Cigarettes (Video)](https://archive.org/details/tobacco_yqwg0225)
-- [Think. Don’t Smoke - Philip Morris Ad (Video)](https://archive.org/details/tobacco_wbr62a00)
-- [CDC: Tips from Former Smokers - Fred W. (Video)](https://www.youtube.com/watch?v=CuPk1cLrq_s)
-- [In My Own Handwriting (Image)](https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=ytxk0091)
 
 ## Additional Resources
 
