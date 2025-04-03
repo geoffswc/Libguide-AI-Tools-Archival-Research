@@ -84,8 +84,8 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
 - [VADER Sentiment Analysis Notebook](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/Vader_Sentiment.ipynb)  
   Sentiment analysis using the VADER tool for social media and text data.
 
-- [VERSA OCR, Sentiment, Classification, Summarization ](h[ttps://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/Vader_Sentiment.ipynb](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/versa-text-image.ipynb))  
-  Image Embedded Text Extraction, Document Classification, Sentiment Analysis, and Document Summarization using VERSA (UCSF OpenAI tool)
+- [VERSA OCR, Sentiment, Classification, Summarization](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/versa-text-image.ipynb)    
+  Image Embedded Text Extraction, Document Classification, Sentiment Analysis, and Document Summarization
 
 ## Additional Resources
 
