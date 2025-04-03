@@ -54,6 +54,8 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
 5. **Generative AI for Text Analysis**
    - Exploring **OpenAI's GPT models** for more complex document classification and sentiment analysis tasks.
      - [OpenAI GPT Models](https://openai.com/gpt-3)
+   - Exploring **VERSA API and Chat** for Image and Text Analysis.
+     - [OpenAI GPT Models](https://ai.ucsf.edu/platforms-tools-and-resources/ucsf-versa)
 
 6. **Custom Machine Learning Models**
    - Building task-specific models for document analysis and their benefits and challenges.
@@ -81,6 +83,9 @@ The goal is to explore how AI can be used to transcribe audio, detect objects in
 
 - [VADER Sentiment Analysis Notebook](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/Vader_Sentiment.ipynb)  
   Sentiment analysis using the VADER tool for social media and text data.
+
+- [VERSA OCR, Sentiment, Classification, Summarization ](h[ttps://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/Vader_Sentiment.ipynb](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/versa-text-image.ipynb))  
+  Image Embedded Text Extraction, Document Classification, Sentiment Analysis, and Document Summarization using VERSA (UCSF OpenAI tool)
 
 ## Additional Resources
 
