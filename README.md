@@ -13,7 +13,7 @@ This repository contains materials for the presentation on the use of AI tools i
 **Conference Website and Recording**
 
 - Billion Lives Symposium: https://tobacco.ucsf.edu/it’s-about-billion-lives-annual-symposium
-- Recording (This presentations starts at 4:10:00): https://ucsf.box.com/s/8qfymrfofdvnalsf4qj2u3zwyvbgp7we
+- Recording (This presentation starts at 4:10:00): https://ucsf.box.com/s/8qfymrfofdvnalsf4qj2u3zwyvbgp7we
 
 ## Overview
 
