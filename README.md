@@ -10,10 +10,10 @@
 
 This repository contains materials for the presentation on the use of AI tools in document analysis and discovery. The content showcases how AI and ML tools can be applied to analyze various media files, such as videos and images, particularly in the context of tobacco marketing and health outreach campaigns.
 
-** Conference Website and Recording **
+**Conference Website and Recording**
 
-Billion Lives Symposium: https://tobacco.ucsf.edu/it’s-about-billion-lives-annual-symposium
-Recording (This presentations starts at 4:10:00): https://ucsf.box.com/s/8qfymrfofdvnalsf4qj2u3zwyvbgp7we
+- Billion Lives Symposium: https://tobacco.ucsf.edu/it’s-about-billion-lives-annual-symposium
+- Recording (This presentations starts at 4:10:00): https://ucsf.box.com/s/8qfymrfofdvnalsf4qj2u3zwyvbgp7we
 
 ## Overview
 
