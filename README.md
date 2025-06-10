@@ -15,6 +15,10 @@ This repository contains materials for the presentation on the use of AI tools i
 - Billion Lives Symposium: https://tobacco.ucsf.edu/it’s-about-billion-lives-annual-symposium
 - Recording (This presentation starts at 4:10:00): https://ucsf.box.com/s/8qfymrfofdvnalsf4qj2u3zwyvbgp7we
 
+**Workshop Recording**
+
+- 2025 UCSF Library Workshop: https://media.ucsf.edu/media/Open-Source-Classification-Sentiment/1_kzqypwjo
+
 ## Overview
 
 In this presentation, we demonstrate the application of AI tools to analyze and extract insights from **three videos** and **one image** (links below). These media files include:
