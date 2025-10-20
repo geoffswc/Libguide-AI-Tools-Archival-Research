@@ -1,6 +1,19 @@
 # AI Tools for Document Analysis and Discovery
 
-**Conference**: Billion Lives Symposium, UCSF, April 2025
+## Overview
+
+This repository contains code, video links, and data to demonstrate the application of AI tools to analyze and extract insights from image, audio, and video media.
+
+To illustrate, the code provides translation for **three video files** and **one imagefile** (links below). These media files include:
+
+- A vaping company’s cartoon ad
+- A youth anti-smoking campaign produced by a tobacco company
+- An anti-smoking ad produced by the CDC
+- A handwritten letter to a tobacco company
+
+The goal is to explore how AI can be used to transcribe audio, detect objects in images, classify documents, and analyze sentiment in these materials. Additionally, we’ll focus on open-source tools that facilitate these tasks.
+
+## Conference: Billion Lives Symposium, UCSF, April 2025
 
 **Presenter:** Geoffrey Boushey  
 
@@ -18,17 +31,6 @@ This repository contains materials for the presentation on the use of AI tools i
 **Workshop Recording**
 
 - 2025 UCSF Library Workshop: https://media.ucsf.edu/media/Open-Source-Classification-Sentiment/1_kzqypwjo
-
-## Overview
-
-In this presentation, we demonstrate the application of AI tools to analyze and extract insights from **three videos** and **one image** (links below). These media files include:
-
-- A vaping company’s cartoon ad
-- A youth anti-smoking campaign produced by a tobacco company
-- An anti-smoking ad produced by the CDC
-- A handwritten letter to a tobacco company
-
-The goal is to explore how AI can be used to transcribe audio, detect objects in images, classify documents, and analyze sentiment in these materials. Additionally, we’ll focus on open-source tools that facilitate these tasks.
 
 ## Video & Image Links
 
